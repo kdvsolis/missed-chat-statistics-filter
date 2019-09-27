@@ -12,7 +12,9 @@ For filtering missed chats with 'start' and 'end' date as GET parameters
 5. Run it with `node index.js`
 
 # Usage
-Go to browser then try http://localhost:8000/get_missed_chats?start=start-date&end=end-date
-   Where:
-     start = is start date with format 'YYYY-MM-DDTHH:mm:SS.ss'. Index 0 of query response by default
-     end = is end date with format 'YYYY-MM-DDTHH:mm:SS.ss'. Last index of query response by default
+<pre>
+Go to browser then try http://localhost:8000/get_missed_chats?start=start-date&end=end-date<br/>
+   Where:<br/>
+     start = is start date with format 'YYYY-MM-DDTHH:mm:SS.ss'. Index 0 of query response by default<br/>
+     end = is end date with format 'YYYY-MM-DDTHH:mm:SS.ss'. Last index of query response by default<br/>
+</pre>
